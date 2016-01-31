@@ -1,0 +1,15 @@
+{
+  "name": "retyped-angular-material-tsd-ambient",
+  "description": "TypeScript typings for angular-material",
+  "version": "1.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/angular-material-tsd-ambient",
+  "typescript": {
+    "definition": "angular-material.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
