@@ -7,7 +7,7 @@ Originally from [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyT
 ## Installation
 
 ```
-npm install --save-dev retyped-angular-material-tsd-ambient
+npm install --save-dev https://github.com/Anthbs/angular-material-tsd-ambient
 ```
 
 See [retyped](https://github.com/retyped/retyped) for more information.
