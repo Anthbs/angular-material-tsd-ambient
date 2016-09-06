@@ -3,7 +3,7 @@
   "description": "TypeScript typings for angular-material",
   "version": "1.0.0-0",
   "licence": "MIT",
-  "repository": "https://github.com/retyped/angular-material-tsd-ambient",
+  "repository": "https://github.com/Anthbs/angular-material-tsd-ambient",
   "typescript": {
     "definition": "angular-material.d.ts"
   },
